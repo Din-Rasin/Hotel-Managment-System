@@ -1,6 +1,99 @@
 
 ---
 
+### 📷 Demo Screenshots
+
+Explore the user interface and workflows of the **Hotel Management System** through visual previews categorized by module and user role.
+
+📦 **[Download Screenshot Demo (.RAR)](https://github.com/Din-Rasin/Hotel-Managment-System/raw/main/View%20Picture%20Demo%20Hotel-Managment-System/Hotel-Demo-Screenshots.rar)**
+💡 *Use WinRAR or 7-Zip to extract the archive.*
+
+---
+
+#### 🔑 **Login Page**
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Hotel-Managment-System/raw/main/View%20Picture%20Demo%20Hotel-Managment-System/Screenshot%202025-05-20%20011652.png" width="600" alt="Login" />
+  <br/><em>User login page for Admin, Receptionist, and Customer</em>
+</p>
+
+---
+
+#### 🏠 **Admin Dashboard**
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Hotel-Managment-System/raw/main/View%20Picture%20Demo%20Hotel-Managment-System/Screenshot%202025-05-20%20145528.png" width="600" alt="Admin Dashboard" />
+  <br/><em>Overview of bookings, revenue, and system activities</em>
+</p>
+
+---
+
+#### 🛏️ **Room Management**
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Hotel-Managment-System/raw/main/View%20Picture%20Demo%20Hotel-Managment-System/Screenshot%202025-05-20%20145649.png" width="600" alt="Room Management" />
+  <br/><em>Add, edit, or remove rooms and set room pricing and details</em>
+</p>
+
+---
+
+#### 📅 **Booking & Reservation**
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Hotel-Managment-System/raw/main/View%20Picture%20Demo%20Hotel-Managment-System/Screenshot%202025-05-20%20145950.png" width="600" alt="Booking Page" />
+  <br/><em>Make or manage reservations with real-time availability</em>
+</p>
+
+---
+
+#### 💳 **Billing & Invoicing**
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Hotel-Managment-System/raw/main/View%20Picture%20Demo%20Hotel-Managment-System/Screenshot%202025-05-20%20150028.png" width="600" alt="Billing" />
+  <br/><em>Auto-generated invoices with payment method and discounts</em>
+</p>
+
+---
+
+#### 🛎️ **Check-In / Check-Out**
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Hotel-Managment-System/raw/main/View%20Picture%20Demo%20Hotel-Managment-System/Screenshot%202025-05-20%20150041.png" width="600" alt="Check-In" />
+  <br/><em>Track guest check-in/check-out status</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Hotel-Managment-System/raw/main/View%20Picture%20Demo%20Hotel-Managment-System/Screenshot%202025-05-20%20150051.png" width="600" alt="Check-Out" />
+  <br/><em>Complete checkout and update room status automatically</em>
+</p>
+
+---
+
+#### 👥 **Staff & Customer Details**
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Hotel-Managment-System/raw/main/View%20Picture%20Demo%20Hotel-Managment-System/Screenshot%202025-05-20%20150110.png" width="600" alt="Staff Management" />
+  <br/><em>Manage receptionist/staff roles, profiles, and shifts</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Hotel-Managment-System/raw/main/View%20Picture%20Demo%20Hotel-Managment-System/Screenshot%202025-05-20%20150119.png" width="600" alt="Customer Info" />
+  <br/><em>Guest profile, booking history, and preferences</em>
+</p>
+
+---
+
+#### 📊 **Reports & Analytics**
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Hotel-Managment-System/raw/main/View%20Picture%20Demo%20Hotel-Managment-System/Screenshot%202025-05-20%20150131.png" width="600" alt="Reports" />
+  <br/><em>Revenue, room occupancy, and booking trends analytics</em>
+</p>
+
+---
+
+---
+
 ## 🏨 Hotel Management System
 
 The **Hotel Management System** is a full-featured web application designed to manage hotel operations including room booking, staff coordination, customer check-in/check-out, billing, and more. It offers role-based access for administrators, receptionists, and guests for seamless hotel operations.
